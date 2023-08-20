@@ -86,7 +86,7 @@ const Contact =()=>{
             </Marker>
           </MapContainer>
         </div>
-        <Loader type="pacmen"/>
+        <Loader type="pacmen"/>``
         </div>
         </>
     )

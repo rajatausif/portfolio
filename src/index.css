@@ -13,8 +13,15 @@ body {
   display: block;
 }
 
-@media screen and (max-width: 1200px) {
-  body {
+.dashboard{
+  margin-left: 200px;
+  margin-top: 200px;
+}
+
+@media screen and(max-width:1200px) {
+  body{
     overflow: visible;
   }
 }
+
+  

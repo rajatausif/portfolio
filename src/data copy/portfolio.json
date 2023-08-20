@@ -1,0 +1,16 @@
+{
+    "portfolio": [
+        {
+            "cover":"/portfolio/1/hoo_bank.png",
+            "title": "Hoo_Bank Desing",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "https://github.com/rajatausif/Hoo_bank"
+        },
+        {
+            "cover":"/portfolio/1/feedback_board.png",
+            "title": "feedback board",
+            "description": "React, JSX, Tailwind, Next.js, Firebase",
+            "url": "https://github.com/rajatausif/feedback_project"
+        }
+    ]
+}
